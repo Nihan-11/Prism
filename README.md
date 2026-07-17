@@ -6,7 +6,7 @@
 
 A modern desktop PC Builder application built with Python and CustomTkinter, designed to make planning and building computers simple, intuitive, and enjoyable.
 
-<img src="assets/logo.png" width="180" alt="Prism Logo">
+<img src="logo.png" width="180" alt="Prism Logo">
 
 ![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-Modern_UI-1f6feb?style=for-the-badge)
